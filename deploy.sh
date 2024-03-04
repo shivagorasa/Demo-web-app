@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# created a new comment
 # Check if an argument is provided
 if [ -z "$1" ]; then
 	    echo "Usage: $0 <target>"
