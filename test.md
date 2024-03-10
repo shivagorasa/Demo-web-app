@@ -8,3 +8,5 @@ ADDED NEW LINE
 SECOND LINE
 
 3rd line
+
+Added 4th line
