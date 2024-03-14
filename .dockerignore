@@ -1,0 +1,8 @@
+# Ignore all files and directories
+*
+
+# Except the specific files and directories needed for the Docker image
+!Dockerfile
+!docker-compose.yml
+!nginx.conf
+!html/
